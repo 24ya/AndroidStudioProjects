@@ -1,5 +1,5 @@
 package com.example.customnaviexample;
-
+//테스트
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.drawerlayout.widget.DrawerLayout;
